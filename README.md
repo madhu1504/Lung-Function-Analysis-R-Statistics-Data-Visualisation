@@ -1,2 +1,3 @@
 # Lung-Function-Analysis-R-Statistics-Data-Visualisation
 Healthcare data analysis in R using NHANES data. Investigated the impact of smoking and sex on lung function with two-way ANOVA, statistical testing, and data visualisation.
+Analysed a healthcare dataset using R to investigate the effects of smoking history and biological sex on lung function (FEV1). Performed data cleaning, exploratory data analysis, two-way ANOVA, post-hoc testing, assumption checking, and created publication-quality visualisations using ggplot2. The project demonstrates statistical analysis, reproducible research, and clear communication of insights relevant to healthcare and NHS Business Intelligence roles.
