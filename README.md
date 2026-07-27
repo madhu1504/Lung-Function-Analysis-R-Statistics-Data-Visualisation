@@ -71,7 +71,7 @@ ggsave("figures/1.exploring_plot.png",
        width = 10, height = 9, units = "in", dpi = 300)
 ```
 
-![img1](figures/1.exploring_plot.png)
+![img1](1.exploring_plot.png)
 
 Figure 1 shows that men have higher lung function than women regardless of smoking condition. It also indicates that smokers have lower levels of FEV1 than non-smokers, across sex. However, there is a greater difference between FEV1 levels observed in male smokers vs non-smokers than between the two smoking groups in females.
 
