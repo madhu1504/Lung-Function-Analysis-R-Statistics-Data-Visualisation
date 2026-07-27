@@ -173,7 +173,7 @@ ggsave("figures/2.Posthoc_plot.png",
        width = 8, height = 9, units = "in", dpi = 300)
 ```
 
-![img2](figures/2.Posthoc_plot.png)
+![img2](2.Posthoc_plot.png)
 
 Tukey-adjusted post-hoc comparisons indicated females had significantly lower lung function than males regardless of smoking history: among non-smokers (p < .0001) and smokers (p < .0001). Additionally, male non-smokers had significantly higher lung function than male smokers (p < .0001). However, no significant difference was found between smoking history and lung function among females (p = 0.1194).
 
@@ -194,7 +194,7 @@ plot(mods, which = 1)
 dev.off()
 ```
 
-![img3](figures/3.Residual_plot.png)
+![img3](3.Residual_plot.png)
 
 The residuals versus fitted values plot indicated no substantial deviations from linearity or homoscedasticity, in line with the normality assumption.
 
@@ -214,7 +214,7 @@ ggsave("figures/4.Histogram_plot.png",
        width = 4, height = 3, units = "in", dpi = 300)
 ```
 
-![img4](figures/4.Histogram_plot.png)
+![img4](4.Histogram_plot.png)
 
 The histogram is relatively symmetrical, so the residuals were approximately normally distributed. Given the large sample size, minor deviations from normality are not considered problematic.
 
@@ -320,7 +320,7 @@ ggsave("figures/5.Report_plot.png",
        width = 10, height = 7, units = "in", dpi = 300)
 ```
 
-![img5](figures/5.Report_plot.png)
+![img5](5.Report_plot.png)
 
 ---
 
